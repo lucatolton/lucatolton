@@ -1,8 +1,7 @@
 ### Hi there 👋
 ## I'm Luca, a very cool person.
 
-- 🔭 I’m currently working on Nero Nodes
-- ![](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fclient.neronodes.net)
+🔭 I’m currently working on Nero Nodes // ![](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fclient.neronodes.net)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
