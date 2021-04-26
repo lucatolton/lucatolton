@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on Nero Nodes | [main site](https://neronodes.net) // [client area](https://client.neronodes.net)
 
-🌱 I’m currently learning JavaScript and Python
+🌱 I’m currently learning JavaScript, Python & PHP
 
 😄 Pronouns: he // him
 
