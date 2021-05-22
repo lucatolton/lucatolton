@@ -9,6 +9,10 @@
 
 ⚡ Fun fact: I'm not good at writing fun facts about myself
 
+## Github Statistics
+[My Github Statistics](https://github-readme-stats.vercel.app/api?username=lucatolton&show_icons=false&theme=dracula)
+[My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucatolton&theme=dracula)
+
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
