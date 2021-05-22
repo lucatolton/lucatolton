@@ -10,7 +10,7 @@
 ⚡ Fun fact: I'm not good at writing fun facts about myself
 
 ## Github Statistics
-[![My Github Statistics](https://github-readme-stats.vercel.app/api?username=lucatolton&show_icons=false&theme=dracula&count_private=true)
+![My Github Statistics](https://github-readme-stats.vercel.app/api?username=lucatolton&show_icons=false&theme=dracula&count_private=true)
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
