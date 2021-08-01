@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Luca, a very cool person.
 
-🔭 I’m currently working on Nero Nodes | [main site](https://neronodes.net) // [client area](https://client.neronodes.net)
+🔭 I’m currently working on Flow | [Site](https://flownode.net)
 
 🌱 I’m currently learning JavaScript, Python & PHP
 
