@@ -17,7 +17,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucatolton&layout=compact&show_icons=false&count_private=true&theme=dracula" />
 </a>
 
-<img src="ttps://github-readme-stats.vercel.app/api/wakatime?username=lucatolton&show_icons=false&count_private=true&theme=dracula" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=lucatolton&show_icons=false&count_private=true&theme=dracula" />
 
 
 <!-- Resources -->
