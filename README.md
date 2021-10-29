@@ -12,12 +12,12 @@
 ## Github Statistics
 <a href="https://github.com/lucatolton">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucatolton&show_icons=false&count_private=true&theme=dracula" />
-</a>
+</a><br />
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucatolton&layout=compact&show_icons=false&count_private=true&theme=dracula" />
-</a>
+</a><br />
 <a href="#">
-  <img align="center" src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=lucatoltonhttps://estruyf-github.azurewebsites.net/api/VisitorHit?user=lucatolton" />
+  <img align="center" src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=lucatolton" />
 </a>
 
 
