@@ -16,8 +16,9 @@
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucatolton&layout=compact&show_icons=false&count_private=true&theme=dracula" />
 </a>
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=lucatolton&show_icons=false&count_private=true&theme=dracula" />
+<a href="#">
+  <img align="center" src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=lucatoltonhttps://estruyf-github.azurewebsites.net/api/VisitorHit?user=lucatolton" />
+</a>
 
 
 <!-- Resources -->
