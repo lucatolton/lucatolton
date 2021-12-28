@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on Flow ([Site](https://flownode.net))
 
-🌱 I’m currently learning JavaScript, Python & PHP
+🌱 I’m currently learning JavaScript (bit of typescript)
 
 😄 Pronouns: he // him
 
