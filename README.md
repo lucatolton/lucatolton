@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Luca, a very cool person.
 
-🔭 I’m currently working on Flow ([Site](https://flownode.net))
+🔭 I’m currently working on nothing, really.
 
 🌱 I’m currently learning JavaScript (bit of typescript)
 
