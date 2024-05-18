@@ -5,8 +5,6 @@
 
 🌱 I’m currently learning JavaScript (bit of typescript)
 
-😄 Pronouns: he // him
-
 ⚡ Fun fact: I'm not good at writing fun facts about myself
 
 ## Github Statistics
