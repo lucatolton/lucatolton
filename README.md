@@ -1,11 +1,4 @@
 ### Hi there 👋
-## I'm Luca, a very cool person.
-
-🔭 I’m currently working on Affinity & FlexiDash.
-
-🌱 I’m currently learning JavaScript (bit of typescript)
-
-⚡ Fun fact: I'm not good at writing fun facts about myself
 
 ## Github Statistics
 <a href="#">
